@@ -1,0 +1,11 @@
+/* NAVBAR */
+.navbar-brand {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    color: #040720;
+    font-weight: bold;
+}
+
+.nav-item .submit {
+    text-align: right;
+}
