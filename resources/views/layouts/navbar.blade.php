@@ -10,7 +10,7 @@
           <a class="nav-link" href="#">Features</a>
 
           <div class="nav-item text-nowrap">
-            <li>
+            <li class="">
               <form action="">
                   <button type="submit" class="nav-link bg-primary-subtle text-emphasis-primary border-0"> Logout </button>
               </form>
